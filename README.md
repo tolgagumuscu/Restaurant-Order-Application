@@ -5,4 +5,5 @@ We developed this project in Java as part of the Object Oriented Programming cou
  - Waiters, on the other hand, will ensure the continuity of the operation by processing the customers' orders into this application.
 
 
+
 ![alt text](https://i.ibb.co/6BjzGBM/Screenshot-2.png)
