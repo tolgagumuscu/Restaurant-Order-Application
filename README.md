@@ -1,4 +1,4 @@
-# # Restaurant Order Application
+# Restaurant Order Application
 We developed this project in Java as part of the Object Oriented Programming course.
  - Thanks to this restaurant application we have created, managers will be able to control their profit-loss ratios and their employees.
  - They will be informed about the economic situation thanks to the total income-expense table and worker salaries tab.
